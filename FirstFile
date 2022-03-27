@@ -1,0 +1,4 @@
+mkdir car.txt
+cd car.txt
+touch car_part
+echo "chassis">>car_part
